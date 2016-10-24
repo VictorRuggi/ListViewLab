@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ListViewLab</string>
+    <string name="bengals">Cincinnati Bengals</string>
+    <string name="colts">Indianapolis Colts</string>
+    <string name="eagles">Philadelphia Eagles</string>
+    <string name="packers">Green Bay Packers</string>
+    <string name="panthers">Carolina Panthers</string>
+    <string name="patriots">New England Patriots</string>
+    <string name="redskins">Washington Redskins</string>
+    <string name="seahawks">Seattle Seahawks</string>
+    <string name="steelers">Pittsburgh Steelers</string>
+    <string name="texans">Houston Texans</string>
+
+    <string name="desc1">Good in the regular season, but terrible come playoff time.</string>
+    <string name="desc2">They\'re so lucky. No pun intended.</string>
+    <string name="desc3">Will not leave any rings on your table.</string>
+    <string name="desc4">Frozen tundra strong.</string>
+    <string name="desc5">Keep pounding. And dabbing.</string>
+    <string name="desc6">It\'s not January until they play in the AFC Title game yet again.</string>
+    <string name="desc7">The reigning NFC East champions. You like that?</string>
+    <string name="desc8">Everyone claims to be a fan of theirs when in reality they are probably just bandwagoners.</string>
+    <string name="desc9">The team with the most Super Bowl rings, with six.</string>
+    <string name="desc10">The other "team" that plays in Texas.</string>
+
+    <string name="appdescription">This is an app that displays information about various football teams.</string>
+</resources>
